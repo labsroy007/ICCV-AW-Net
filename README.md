@@ -1,9 +1,9 @@
 # AW-Net: A Novel Fully Connected Attention-based Medical Image Segmentation Model
 This repository contains the official codebase of AW-Net which was accepted in ICCV workshop 2023. AW-Net focuses on segmenting multimodal medical images such as MRI, PET, and CT scan images for multiple organs such as brain, breast, and spine. 
-
+vist the link for the paper : https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Pal_AW-Net_A_Novel_Fully_Connected_Attention-Based_Medical_Image_Segmentation_Model_ICCVW_2023_paper.pdf
 
 ## Overview
-A novel fully connected segmentation model which provides a solution to problem of segmenting multi-modal 3D/4D medical images by incorporating a novel regularized transient block. AW-Net uses L1 regularizers followed by dropout layers to improve model performance. The implementation is inspired from ***Attention UW-Net: A fully connected model for automatic segmentation and annotation of chest X-ray***  [Code](https://github.com/Dynamo13/Attention_UWNet) | [Paper]( [https://www.sciencedirect.com/science/article/abs/pii/S0010482522007910](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Pal_AW-Net_A_Novel_Fully_Connected_Attention-Based_Medical_Image_Segmentation_Model_ICCVW_2023_paper.pdf)).
+A novel fully connected segmentation model which provides a solution to problem of segmenting multi-modal 3D/4D medical images by incorporating a novel regularized transient block. AW-Net uses L1 regularizers followed by dropout layers to improve model performance. The implementation is inspired from ***Attention UW-Net: A fully connected model for automatic segmentation and annotation of chest X-ray***  [Code](https://github.com/Dynamo13/Attention_UWNet) | [Paper](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Pal_AW-Net_A_Novel_Fully_Connected_Attention-Based_Medical_Image_Segmentation_Model_ICCVW_2023_paper.pdf)).
 
 ## AW-Net Architecture
 
